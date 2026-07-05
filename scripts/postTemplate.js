@@ -4,7 +4,8 @@ function createPostHeader() {
             <h1>Post JSON</h1>
             <ul>
                 <li><a href="../index.html">Home</a></li>
-                <li><a href="./pages/albums.html">Albums</a></li>
+                <li><a href="albums.html">Album</a></li>
+                <li><a href="todo.html">ToDo</a></li>
             </ul>
         </div> 
     `;
