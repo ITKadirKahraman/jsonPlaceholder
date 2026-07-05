@@ -106,6 +106,6 @@ function renderToDos() {
     let content = document.getElementById('toDoCard');
     content.innerHTML = '';
     for (let index = 0; index < todos.length; index++) {
-        content.innerHTML += createToDo(albums[index]); 
+        content.innerHTML += createToDo(todos[index]); 
     }
 }
