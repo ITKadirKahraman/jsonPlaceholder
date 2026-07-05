@@ -4,6 +4,8 @@ function createToDoHeader() {
             <h1>ToDo JSON</h1>
             <ul>
                 <li><a href="../index.html">Home</a></li>
+                <li><a href="posts.html">Posts</a></li>
+                <li><a href="albums.html">Album</a></li>
             </ul>
         </div> 
     `;
