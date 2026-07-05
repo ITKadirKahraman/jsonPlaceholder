@@ -4,6 +4,8 @@ function creatHeader() {
             <h1>{JSON} Placeholder</h1>
             <ul>
                 <li><a href="./pages/posts.html">Posts</a></li>
+                <li><a href="./pages/albums.html">Albums</a></li>
+                <li><a href="./pages/todo.html">ToDo</a></li>
             </ul>
         </div> 
     `;
