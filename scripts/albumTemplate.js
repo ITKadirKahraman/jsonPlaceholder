@@ -4,7 +4,8 @@ function createAlbumsHeader() {
             <h1>ALBUMS JSON</h1>
             <ul>
                 <li><a href="../index.html">Home</a></li>
-                <li><a href="pages/pages/posts.html">Posts</a></li>
+                <li><a href="posts.html">Posts</a></li>
+                <li><a href="todo.html">ToDo</a></li>
             </ul>
         </div> 
     `;
